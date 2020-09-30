@@ -1,4 +1,4 @@
-TinyWebsite
+TinyWebsite is an amazing website for used.
 ============
 
 TinyWebsite, a simple CMS that allows you to create, update, delete your website pages.
